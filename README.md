@@ -2,7 +2,7 @@
 - 👀 I’m interested in jetpack compose
 - 🌱 I’m currently learning kotlin/jetpack compose
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mehmettekin@gmail.com
+- 📫 How to reach me mehmettekin59@gmail.com
 
 <!---
 mehmettekin59/mehmettekin59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
